@@ -1,0 +1,101 @@
+*{
+    margin: 0px;
+    background-color: #edefee;
+}
+
+
+nav{
+    text-align: center;
+    font-family: 'Karla', sans-serif;
+    padding: 20px; 
+    margin-top: 30px;
+    color: black;
+    border: 1px solid black;
+    justify-content: center;
+    width: 25%;
+    margin: auto; 
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+a{
+    text-decoration: none;
+    padding: 20px; 
+    color: black;
+}
+
+
+h1{
+    text-align: center;
+    font-family: 'Karla', sans-serif;
+    color: #355b8c;
+    font-size: 40px;
+}
+
+#insta {
+    font-size: 30px;
+}
+
+h2{
+    font-family: 'Karla', sans-serif;
+    text-align: left;
+    font-size: 30px;
+    color: black;
+    
+}
+
+p {
+    font-family: 'Inconsolata', monospace;
+    color:black;
+    
+}
+
+.intro {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.head {
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+
+}
+
+.box1{
+    border:1.5px solid black;
+    display:flex;
+    flex-direction: row;
+    margin: 60px;
+    padding: 20px 20px 20px 20px;
+}
+
+.box2, .box3, .box4 {
+    border:1.5px solid #355cb8;
+    background-color: #35648c;
+    padding: 20px 20px 20px 20px;
+    margin: 35px;
+    
+}
+
+#big {
+    width: 600px;
+    height: 400px;
+    padding-top: 50px;
+}
+#gif {
+    width: 80px;
+    height: 60px;
+    display: block;
+    margin: 20px auto;
+}
+img{
+    width: 325px;
+}
+hr{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
